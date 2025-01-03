@@ -9,4 +9,4 @@ Better recommendation systems are required to help farmers make well-informed de
 
 ## Dataset
 
-Dataset is pulled from Kaggle
+Dataset source from Kaggle

@@ -6,7 +6,13 @@ These days, percision agriculcture is popular. using information on soil types, 
 
 Better recommendation systems are required to help farmers make well-informed decisions prior to beginning crop cultivvation, thereby mitigating the aggricultural crisis under the current status quo.
 
+## Goals
 
-## Dataset
+Recommending the best crops for farmers to grow based on several parameters and assisting them in making an informed decision before cultivation.
 
-Dataset source from Kaggle
+
+## About Data
+
+The data used in this project is made by augmenting and combining datasets like weather, soil, etc. You can access the dataset [here](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset).
+
+The data have Nitrogen, Phosphorus, Pottasium and pH calues of the soil. Also, it also contain the humidity, temperature and rainfall required for a particular crop.
